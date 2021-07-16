@@ -1,6 +1,6 @@
 /*
-!.gitignore
+.gitignore
 
-!README.md
+README.md
 !alacritty.png
 !config.yaml
